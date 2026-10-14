@@ -2,3 +2,5 @@ myenv
 .myenv
 .myenv/
 myenv/
+json_data.json
+# 09_Pandas/json_data.json
